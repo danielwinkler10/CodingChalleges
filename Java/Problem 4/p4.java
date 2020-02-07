@@ -1,8 +1,7 @@
 /*
  * Daniel Winkler
  * ---
- * Given an array of integers, find the first missing positive integer in linear time and constant space.
- * In other words, find the lowest positive integer that does not exist in the array.
+ * Find the lowest positive integer that does not exist in the series. If series is complete, print the next number.
  * The array can contain duplicates and negative numbers as well.
 */
 
